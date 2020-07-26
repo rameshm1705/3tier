@@ -1,5 +1,6 @@
 The requirements for the test project are:
-You want to design a continuous delivery architecture for a scalable and secure 3 tier Node application. Application to use can be found on https://git.toptal.com/namikp/node-3tier-app
+You want to design a continuous delivery architecture for a scalable and secure 3 tier Node application. Application to use can be found on https://devops-screening.s3.amazonaws.com/screening.zip
+
 Both web and API tiers should be exposed to the internet and DB tier should not be accessible from the internet.
 You should fork the repository and use it as the base for your system.
 * You need to create resources for all the tiers. 
@@ -19,12 +20,5 @@ As a solution, please commit to the git repo the following:
 * All the relevant runtime handling scripts (start/stop/scale nodes). 
 * All the relevant backup scripts.
 Please use this private repository to version-control your code:
-https://git.toptal.com/eluttner/robert-kinyon
+https://devops-screening.s3.amazonaws.com/screening.zip
 
-Helpful take-home project guidelines:
-
-* This project will be used to evaluate your skills, and should be fully functional without any obvious missing pieces. We will evaluate the project as if you were delivering it to a customer.
-* The deadline to submit your completed project is 2 weeks from the date you received the project requirements.
-* If you schedule your final interview after the 2-week deadline, make sure to submit your completed project and all code to the private repository before the deadline. Everything that is submitted after the deadline will not be taken into consideration.
-* Please do not commit any code at least 12 hours before the meeting time so that it can be reviewed. Anything that is submitted after this time will not be taken into consideration.
-* Please join the meeting room for this final interview on time. If you miss your interview without providing any prior notice, your application may be paused for six months.
