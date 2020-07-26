@@ -15,7 +15,7 @@ You should fork the repository and use it as the base for your system.
 * You should be able to deploy it on one larger Cloud provider: AWS / Google Cloud / Azure / DigitalOcean / RackSpace. 
 * The system should present relevant historical metrics to spot and debug bottlenecks.
 As a solution, please commit to the git repo the following:
-* An architectural diagram / PPT to explain your architecture during the interview. 
+* An architectural diagram / PPT to explains.
 * All the relevant configuration scripts (Terraform/Chef/Puppet/cfengine/ansible/cloud formation) 
 * All the relevant runtime handling scripts (start/stop/scale nodes). 
 * All the relevant backup scripts.
